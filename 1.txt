@@ -1,2 +1,2 @@
-[isx*is|six*ixs,oot*to|too*ot|oot,ist*is|its|sit]
+["isx*is|six*ixs","oot*to|too*ot|oot","ist*is|its|sit"]
 
