@@ -1,0 +1,16 @@
+[
+"lot*lot|to",
+"efw*few|we",
+"fit*fit|if|it",
+"eho*he|hoe|oh",
+"app*app|pa|pap",
+"nor*no|nor|on|or",
+"ady*ad|day|ya",
+"amt*am|at|ma|mat*amt",
+"not*no|not|on|to|ton",
+"ahn*ah|an|ha|na|nah*2",
+"alos*also|as|so*loa|loas|sal|sol|sola",
+"abss*abs|as|bass*sab|sabs|sba|ssa*1",
+"bgsu*bug|bugs|bus|sub|us",
+"dirt*dirt|dit|it|rid*dir|tri"
+]
