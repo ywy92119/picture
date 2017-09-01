@@ -983,4 +983,5 @@
 "eggilpr*egg|eig|eli|erp|geil|gel|ger|gier|gil|girl|greg|ige|igel|ire|leg|lei|ler|lie|lieg|lpg|per|perl|pie|pier|pilger|pre|reg|rei|rep|rip",
 "abelrrr*abe|abel|aber|abl|alb|ale|are|baer|bale|bar|bare|barrel|bea|bear|bel|bela|ber|bla|earl|era|lab|lea|leb|ler|rabe|rar|rare|real|rer",
 "filmpsu*film|films|fis|flip|ilm|impuls|liu|lps|luis|mfs|mil|mls|mus|pfui|pils|pius|plus|puls|sim|slim|slip|sui|sum|sumpf|ulf|uli|ulm|ums|ups|usf",
-"acefkly*ace|ale|alec|alf|alk|cafe|cal|clay|eck|elf|face|fackel|fake|falk|falke|fca|fck|fleck|fly|kay|key|kfc|kyle|lack|lake|lea|leck|ley|lka|yale*2",
+"acefkly*ace|ale|alec|alf|alk|cafe|cal|clay|eck|elf|face|fackel|fake|falk|falke|fca|fck|fleck|fly|kay|key|kfc|kyle|lack|lake|lea|leck|ley|lka|yale*2"
+]
