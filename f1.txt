@@ -983,4 +983,5 @@
 "adklnou*ado|adon|ako|alu|alun|dal|dan|dano|dao|dna|dol|don|dona|dual|duo|kan|kola|kula|lad|land|lao|loua|nodal|nok|noua|nul|oka|ola|ondula|ulna",
 "aadnnpr*ada|adp|ana|anar|anda|ara|dan|dna|drap|drapa|nada|nan|nana|nanar|nanard|nap|nard|pad|pan|pana|panard|panda|panna|par|para|rad|rada|ran|rap",
 "aghlnor*agro|angor|argol|argon|gal|galon|gan|garno|goal|gon|halo|halon|han|haro|hon|lagon|lao|largo|long|loran|lorgna|ola|oral|orna|rag|ran|rang|rho|rogna|ron",
-"aaeglny*aga|age|agnela|ale|ana|anal|anale|ange|angle|anya|aya|gal|gala|gale|gan|gay|gel|gela|glana|glane|lagan|lange|laya|naga|nage|nagea|nay|ney|yang|yen*2",
+"aaeglny*aga|age|agnela|ale|ana|anal|anale|ange|angle|anya|aya|gal|gala|gale|gan|gay|gel|gela|glana|glane|lagan|lange|laya|naga|nage|nagea|nay|ney|yang|yen*2"
+]
