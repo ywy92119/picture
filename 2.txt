@@ -1033,4 +1033,5 @@
 "bcektuy*beck|bet|bey|buck|bucket|but|buy|bye|byte|cub|cube|cue|cut|cute|etc|key|tub|tube|tuck|tyke|yet|yuck|yuk",
 "eehiist*heist|hie|his|hit|hits|its|see|set|she|sheet|shiite|shit|shite|sit|site|tee|tees|the|thee|these|this|tie|ties",
 "aceennt*ace|acne|act|ant|ate|can|cane|canteen|cat|cent|eat|eaten|enact|eta|etc|nan|neat|net|tan|tea|tee|teen|ten",
-"fhimsty*fish|fishy|fist|fit|fits|him|his|hit|hits|its|itsy|mist|misty|myth|myths|shift|shifty|shim|shit|shy|sift|sim|sit|smithy|sty|this|thy",
+"fhimsty*fish|fishy|fist|fit|fits|him|his|hit|hits|its|itsy|mist|misty|myth|myths|shift|shifty|shim|shit|shy|sift|sim|sit|smithy|sty|this|thy"
+]
