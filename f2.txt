@@ -1033,4 +1033,5 @@
 "agjnory*agro|angor|argon|gan|garno|gay|gon|goy|gray|jar|jargon|nay|noya|orna|rag|ran|rang|rayon|rogna|ron|roy|yang|yoga",
 "aeffgrr*age|are|erg|erra|faf|far|fare|fer|fera|ferra|fra|gaffe|gaffer|gare|garer|graff|rafe|raff|rag|rage|rager|rare|reg",
 "aadlnux*ada|alu|alun|ana|anal|anaux|anda|aula|aulx|aux|axa|dal|dan|dna|dual|lad|land|landau|lux|luxa|nada|nul|ulna",
-"adkmnoy*ado|adon|ako|amok|dam|dan|dano|dao|dna|dom|don|dona|dynamo|kan|man|mao|mayo|mod|moka|mon|monda|nay|nok|nom|noya|oka|yak",
+"adkmnoy*ado|adon|ako|amok|dam|dan|dano|dao|dna|dom|don|dona|dynamo|kan|man|mao|mayo|mod|moka|mon|monda|nay|nok|nom|noya|oka|yak"
+]
