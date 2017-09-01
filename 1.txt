@@ -983,4 +983,5 @@
 "deoptux*depot|detox|dope|dot|dote|due|duet|duo|dupe|dut|ode|opt|opted|oud|out|outed|pet|pod|poet|pot|pout|pouted|pox|pud|put|toe|toed|top|tux|tuxedo",
 "deegmnr*deem|deer|den|edge|end|ender|ere|erg|gee|gem|gender|gene|genre|ger|germ|greed|green|men|mend|mere|merge|merged|need|neem|nerd|red|reed|rem|rend",
 "einsvwx*new|news|nix|sew|sewn|sex|sin|sine|sinew|six|swine|vein|veins|ven|vex|vie|vies|view|views|vine|vines|vise|vixen|vixens|win|wine|wines|wins|wise|wives",
-"bcderuv*bed|bred|bud|cred|crud|crude|cub|cube|cubed|cud|cue|cued|cur|curb|curbed|curd|cure|cured|curve|curved|dub|due|ecru|reb|red|rub|rude|rue|rued|verb*2",
+"bcderuv*bed|bred|bud|cred|crud|crude|cub|cube|cubed|cud|cue|cued|cur|curb|curbed|curd|cure|cured|curve|curved|dub|due|ecru|reb|red|rub|rude|rue|rued|verb*2"
+]
