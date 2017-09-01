@@ -1033,4 +1033,5 @@
 "ceooprv*ceo|coop|cooper|cop|core|corp|cover|cro|eco|erp|oer|oper|over|per|poe|poor|por|pre|pro|rep|rev|ver|vor",
 "enooppt*ent|neo|net|nope|not|note|one|open|opt|pen|pep|pet|poe|poet|pop|pope|pot|ten|ton|tone|too|top|toppen",
 "eillmrr*eli|emil|emir|ill|ilm|ire|irre|lei|leim|ler|lie|lil|mei|mel|mer|mil|mill|mille|miller|mir|rei|reim|rer",
-"aefiirr*air|are|ari|arie|era|fair|faire|fairer|far|fear|fei|fer|fire|fra|frei|ifa|ira|ire|irre|raf|rar|rare|ref|rei|reif|rer|rief",
+"aefiirr*air|are|ari|arie|era|fair|faire|fairer|far|fear|fei|fer|fire|fra|frei|ifa|ira|ire|irre|raf|rar|rare|ref|rei|reif|rer|rief"
+]
